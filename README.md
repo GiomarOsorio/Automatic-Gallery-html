@@ -216,7 +216,7 @@ copy all the files from the folder modified in the previous step and paste it in
 └── template.html
 ```
 
-### How to use it 🔧
+### How to use it 📦
 
 for the script to work properly, the images must be added inside the 'images/projects' folder, if it does not exist you must create it.
 
