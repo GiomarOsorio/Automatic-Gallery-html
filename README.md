@@ -257,7 +257,7 @@ ___Important:___ the file name will be the same shown in the gallery (without th
 Run the script from a terminal, it should supply the name of the template and the output file, ignoring the extension.
 
 
-![Automatic Gallery HTML home screen](/images/home_screen.png?raw=true "Automatic Gallery HTML home screen")
+![](/images/home-screen.png?raw=true)
 
 ## Built With 🛠️
 
