@@ -1,4 +1,4 @@
-# Another E-learning Platform
+# Automatic Gallery
 
 A simple script that allows adding html content, specifically a gallery, tested only with the [HTML5 UP](https://html5up.net/) template.
 
